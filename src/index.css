@@ -12,6 +12,10 @@ h1{
   font-size: 2rem;
 }
 
+h2{
+  margin: 0;
+}
+
 p{
   font-size: 1.5rem;
 }
@@ -34,4 +38,32 @@ p{
 .header-title{
   display: flex;
   align-items: center;
+}
+
+.meme-form{
+  padding: 2% 10%;
+  text-align: center;
+}
+
+.meme-input{
+  display: flex;
+  justify-content: center;
+}
+
+.meme-input-box{
+  width: 30%;
+  margin: 0 3%;
+  height: 3rem;
+  border: 1px solid #D5D4D8;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+.meme-button{
+  width: 66%;
+  height: 3.5rem;
+  margin: 1.5% 3%;
+  background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+  border-radius: 5px;
+  color: white;
 }
