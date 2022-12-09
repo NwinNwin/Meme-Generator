@@ -32,7 +32,8 @@ p{
 }
 
 .header-img{
-  width: 10%;
+  width: 5%;
+  margin-right: 1%;
 }
 
 .header-title{
@@ -62,8 +63,16 @@ p{
 .meme-button{
   width: 66%;
   height: 3.5rem;
-  margin: 1.5% 3%;
-  background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+  margin: 1.5% 3% 0 3%;
+  background: linear-gradient(90.41deg, #711F8D 1.14%, #ca77e6 100%);
   border-radius: 5px;
   color: white;
+}
+
+.meme-page{
+  text-align: center;
+}
+
+.meme-img{
+  width: 20%;
 }

@@ -9,7 +9,7 @@ export default function App() {
         <> 
             <Header/>
             <Meme/>
-            <h1>Hello world!</h1>
+
         </>
     )
 }
